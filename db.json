@@ -70,6 +70,22 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "gender": "male",
+      "title": "cup",
+      "category": "pant",
+      "price": "1200",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
+    },
+    {
+      "gender": "male",
+      "title": "prak",
+      "category": "shirt",
+      "price": "8000",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 11
     }
   ]
 }
